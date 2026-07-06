@@ -1,0 +1,8 @@
+# Random number generator 
+
+## Description
+This is my first python project.
+
+It generates random numbeer ussing python's built-in random module.
+## Files
+random_number_generator.py
