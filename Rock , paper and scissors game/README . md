@@ -1,1 +1,8 @@
+# Rock Paper Scissors
 
+A simple Python game where the player competes against the computer.
+
+## Features
+- Rock, Paper, Scissors game
+- Random computer choice
+- Play again option
